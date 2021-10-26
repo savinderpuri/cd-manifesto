@@ -152,3 +152,4 @@ Read our [contribution guidelines](./CONTRIBUTING.md).
 | Dirk Lehmann       | <https://www.linkedin.com/in/dirk-lehmann-7712bb125/>       |
 | Niko Kivelä        | <https://www.linkedin.com/in/nikokivela/>                   |
 | Vu Ha              | <https://www.linkedin.com/in/vuhacanada/>                   |
+| Savinder Puri      | <https://www.linkedin.com/in/savinderpuri/>                   |
